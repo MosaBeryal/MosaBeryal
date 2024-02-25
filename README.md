@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MosaBeryal](https://github.com/MosaBerya)
 
-- 💬 Ask me about **Flutter | Firebase**
+- 💬 Ask me about **MERN Stack**
 
 - 📫 How to reach me **wasim@findstoneage.com**
 
