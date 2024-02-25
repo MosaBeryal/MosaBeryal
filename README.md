@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN Stack**
 
-- 📫 How to reach me **wasim@findstoneage.com**
+- 📫 How to reach me **beryalmosa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
