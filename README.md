@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/wasim_xaman" target="blank"><img src="https://img.shields.io/twitter/follow/wasim_xaman?logo=twitter&style=for-the-badge" alt="wasim_xaman" /></a> </p>
 
-- 🔭 I’m currently working on [Hobbyzhub](https://github.com/HobbyzHub-Application)
+- 🔭 I’m currently working as a Full Time MERN Stack Developer
 
-- 🌱 I’m currently learning **Back-End (Node JS)**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Wasim-Zaman](https://github.com/Wasim-Zaman)
 
