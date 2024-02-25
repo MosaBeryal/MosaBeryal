@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **TypeScript**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Wasim-Zaman](https://github.com/Wasim-Zaman)
+- 👨‍💻 All of my projects are available at [https://github.com/MosaBeryal](https://github.com/MosaBerya)
 
 - 💬 Ask me about **Flutter | Firebase**
 
