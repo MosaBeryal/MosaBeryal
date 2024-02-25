@@ -1,12 +1,14 @@
 # Hi 👋, I'm Mosa Beryal
+
 ## Full-Stack Developer | MERN Stack Developer
 
 - 🔭 Currently working as a Full-Time MERN Stack Developer
-- 🌱 Learning **TypeScript**
+- 🌱 Learning **System Design**
 - 💬 Ask me about **MERN Stack** and **System Design**
 - 📫 How to reach me: [beryalmosa@gmail.com](mailto:beryalmosa@gmail.com)
 
-### Languages and Tools:
+## 🛠️ Tech Stack
+
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  /> <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  /> <img width="12" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  /> <img width="12" />
