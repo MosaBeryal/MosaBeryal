@@ -2,7 +2,7 @@
 
 ## 🚀 Full-Stack Developer | MERN Stack Developer  
 
-🔭 Currently working as a **Full-Time MERN Stack Developer**  
+🔭 Currently working as a **Freelance MERN Stack Developer**  
 🌱 Learning **System Design**  
 💬 Ask me about **MERN Stack** and **System Design**  
 📫 Reach me at: [beryalmosa@gmail.com](mailto:beryalmosa@gmail.com)  
