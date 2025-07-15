@@ -2,109 +2,93 @@
 # 👋 Hi, I'm Mosa Beryal
 
 ## 🚀 Software Engineer | Full-Stack Developer 
-
-🔭 Currently working as a **Freelance Full-Stack MERN Developer**
-🌱 Diving deeper into **System Design**, **Cloud Infrastructure (AWS)**, and **Microservices Architecture**
-💬 Ask me about:
-
-* **MERN Stack Development**
-* **React, React Native, Next.js**
-* **Real-time Systems (WebSockets, Socket.IO, SSE)**
-* **API Design (REST, GraphQL)**
-* **System Design and Distributed Systems**
-* **CI/CD, DevOps, Dockerized Deployments**
-* **Scalable and Secure Cloud Deployments**
-
-📫 Reach me at: [beryalmosa@gmail.com](mailto:beryalmosa@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=38BDF8&vCenter=true&width=435&lines=I+love+building+Real-time+Applications.;Cloud+Infrastructure+%26+DevOps.;Full-Stack+Web+and+Mobile+Apps.;Let's+Code+Something+Awesome+Together!" alt="Typing SVG" />
 
 ---
 
-## 🛠️ Tech Stack
+## 📫 Let’s connect
 
-### 🔹 Frontend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ShadCN-111827?style=flat&logo=tailwind-css&logoColor=white" />
-</p>
-
-### 🔹 Backend
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socket.io&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
-</p>
-
-### 🔹 Databases
-
-<p align="left">
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
-</p>
+📧 [beryalmosa@gmail.com](mailto:beryalmosa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Let's%20Connect%20on%20LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mosa-beryal-b03233211)
 
 ---
 
-## ☁️ Cloud & DevOps
+## 🛠️ Tech I Work With
 
-<p align="left">
-  <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Nginx-009639?style=flat&logo=nginx&logoColor=white" />
-  <img src="https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Render-46E3B7?style=flat&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
-</p>
+### ⚛️ Frontend
+
+![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge\&logo=react\&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge\&logo=tailwind-css\&logoColor=white)
+
+### 🖥️ Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge\&logo=socketdotio\&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge\&logo=graphql\&logoColor=white)
+
+### 🗄️ Databases
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge\&logo=render\&logoColor=black)
 
 ---
 
-## 📌 Other Skills & Technologies
+## 🎨 Other Skills
 
-✅ Real-time Communication with **WebSockets, Socket.IO, SSE**
-✅ Authentication Systems (JWT, OAuth 2.0, Firebase Auth)
-✅ RESTful and GraphQL API Development
-✅ CI/CD Pipelines with GitHub Actions & Dockerized Apps
-✅ Microservices & Distributed System Architectures
-✅ Cloud Hosting & Deployment on AWS, Render, Vercel
-✅ Relational and NoSQL Database Design
-✅ Stripe, PayPal, and other payment gateway integrations
-✅ React Native Mobile App Development
-✅ Advanced State Management with Redux & Zustand
-✅ React-PDF, Google Maps API, and third-party SDK integrations
-✅ Custom UI Component Libraries (ShadCN, Tailwind)
-✅ PowerBI dashboard integrations into React apps
+✨ Real-time Systems (WebSockets, Socket.IO, SSE)
+✨ REST & GraphQL APIs
+✨ Microservices & Distributed Architecture
+✨ Authentication (JWT, OAuth, Firebase Auth)
+✨ CI/CD Pipelines (Docker, GitHub Actions)
+✨ Payment Gateway Integration (Stripe, PayPal)
+✨ React Native Mobile Apps
+✨ State Management (Redux, Zustand)
+✨ PowerBI Integration, React-PDF, Google Maps SDK
+
+---
+
+## 📈 Currently Exploring
+
+🛠️ Advanced System Design Patterns
+🛠️ Microservices & Event-Driven Systems
+🛠️ DevOps Pipelines & AWS Cloud Architectures
+
+---
+
+## 🎉 Fun Fact
+
+🔥 I love bringing scalable real-time ideas to life with clean code and strong system foundations.
+
+---
+
+## 🎥 Bonus: Animated Tech Stack Showcase
+
+![Tech Stack Animation](https://readme-typing-svg.herokuapp.com?font=Fira+Code\&size=20\&pause=1000\&width=500\&lines=React%2C+Next.js%2C+Node.js%2C+Docker%2C+AWS%2C+Microservices%2C+System+Design%2C+Socket.IO%2C+MongoDB%2C+GraphQL)
 
 ---
 
 ## 🔗 Connect with Me
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mosa-beryal-b03233211">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/-Mosa%20Beryal-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/mosa-beryal-b03233211)
 
 ---
 
-🚀 **Passionate about building scalable, real-time applications with modern stacks.**
-💡 **Always learning, improving, and collaborating to deliver clean, efficient, and impactful solutions.**
-📣 **Feel free to reach out for freelance opportunities, collaborations, or just to talk tech!**
-
----
-
-## 📈 Currently Exploring:
-
-* **Advanced System Design Patterns**
-* **Microservices with Node.js & Event-Driven Architectures**
-* **Production-grade DevOps Automation**
+## ✅ Ready to build something awesome? Let’s talk.
 
