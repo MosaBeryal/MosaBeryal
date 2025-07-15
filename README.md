@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Mosa Beryal
 
-## 🚀 Full-Stack Developer | MERN & Next.js Specialist | System Design & Cloud Enthusiast
+## 🚀 Software Engineer | Full-Stack Developer 
 
 🔭 Currently working as a **Freelance Full-Stack MERN Developer**
 🌱 Diving deeper into **System Design**, **Cloud Infrastructure (AWS)**, and **Microservices Architecture**
