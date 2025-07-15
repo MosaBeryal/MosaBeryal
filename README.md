@@ -1,9 +1,3 @@
-Excellent — thank you for clarifying!
-I’ll fully enhance your portfolio-style profile markdown by integrating **everything I know you’ve worked on, built, or learned** from our conversations and your skills list.
-
-This version will be clean, organized, aesthetic, and optimized to reflect your expertise and passion as a Full-Stack Developer and System Designer:
-
----
 
 # 👋 Hi, I'm Mosa Beryal
 
@@ -111,10 +105,6 @@ This version will be clean, organized, aesthetic, and optimized to reflect your 
 ## 📈 Currently Exploring:
 
 * **Advanced System Design Patterns**
-* **AWS Certified Solutions Architect — Associate**
 * **Microservices with Node.js & Event-Driven Architectures**
 * **Production-grade DevOps Automation**
 
----
-
-Would you like this formatted into a clean `README.md` file too? I can prep that for you.
