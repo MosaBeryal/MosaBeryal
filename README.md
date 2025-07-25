@@ -1,18 +1,22 @@
 <h1 align="center">👋 Hi, I'm Mosa Beryal</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Software+Engineer;Full-Stack+Developer;Solution+Architect+(in+progress);Cloud+%26+System+Design+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+Native+Engineer;Cloud+%26+System+Design+Enthusiast;DevOps+%7C+AWS+%7C+Microservices" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🔭 Currently working as a **Freelance Full-Stack MERN Developer**
-- 🌱 Learning **System Design**, **Microservices**, and **AWS Cloud Infrastructure**
-- 💬 Ask me about:  
-  `MERN`, `React Native`, `Next.js`, `WebSockets`, `Socket.IO`, `API Design`, `Docker`, `CI/CD`, `DevOps`, `AWS`
-- 📫 Reach me at: **beryalmosa@gmail.com**
+I'm a passionate **Full-Stack Developer** with hands-on **freelance and onsite experience** in both **product** and **service-based companies**. I specialize in building scalable web and mobile applications, architecting distributed backend systems, and deploying robust cloud infrastructure.
+
+- 🧠 Focused on **System Design**, **Microservices**, and **Cloud Architecture**
+- 🧩 Experienced with **MERN Stack**, **React Native**, and **API-driven solutions**
+- ☁️ Skilled in **Dockerized deployments**, **CI/CD**, and **AWS Infrastructure**
+- 💬 Let's talk about:  
+  `React`, `Next.js`, `React Native`, `Node.js`, `Socket.IO`, `GraphQL`, `Docker`, `CI/CD`, `AWS`, `Linux`
+
+📬 Reach me at: **beryalmosa@gmail.com**
 
 ---
 
@@ -43,37 +47,25 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" />
 </p>
 
-### 🔹 Cloud & DevOps
+### 🔹 DevOps & Cloud
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white" />
 </p>
-
----
-
-## 📌 Key Skills
-
-✅ Real-time Communication (WebSockets, Socket.IO, SSE)  
-✅ Authentication (JWT, OAuth 2.0, Firebase Auth)  
-✅ REST & GraphQL API Development  
-✅ Microservices & Distributed Architecture  
-✅ AWS Cloud Hosting & Dockerized Apps  
-✅ CI/CD Pipelines (GitHub Actions, Docker)  
-✅ React Native Mobile Apps  
-✅ Stripe, PayPal Payment Integration  
-✅ PowerBI + React Data Integrations  
 
 ---
 
 ## 📈 Currently Exploring  
 
-- 🛠️ Advanced System Design Patterns  
-- ⚙️ Microservices & Event-Driven Systems  
-- ☁️ AWS Solutions Architect Associate (certification track)  
-- 📦 Production-grade DevOps Pipelines  
+- 🛠️ Advanced System Design & Scalability Patterns  
+- ⚙️ Microservices with Event-Driven Architecture  
+- ☁️ AWS Solutions Architect Associate Certification  
+- 🔧 Production-ready DevOps Practices  
 
 ---
 
@@ -84,5 +76,3 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-
----
